@@ -1,12 +1,14 @@
 Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs. 
 
-To change the theme and font, click on Tools -> Options.
+To change the theme and font: 
 
-Next, click on the 'Theme & Font' tab. 
++ Click on Tools -> Options.
 
-Click on the drop down boxes for each option until you find the settings that best suit your needs.
++ Click on the 'Theme & Font' tab. 
 
-Press OK when you are finished. 
++ Click on the drop down boxes for each option until you find the settings that best suit your needs.
+
++ Press OK when you are finished. 
 
 ![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
 
