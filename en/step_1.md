@@ -8,7 +8,7 @@ Click on the drop down boxes for each option until you find the settings that be
 
 Press OK when you are finished. 
 
-![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG){:width="300px"}
+![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
 
 **Warning**: Stick to simple, clean fonts. Using a handwriting style font will make your code much harder to read and debug. 
 
