@@ -10,6 +10,6 @@ To change the theme and font:
 
 + Press OK when you are finished. 
 
-**Warning**: Stick to simple, clean fonts. Using a handwriting style font will make your code much harder to read and debug. 
+**Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
 
 
