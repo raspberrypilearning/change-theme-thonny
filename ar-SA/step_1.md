@@ -1,4 +1,4 @@
-Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs.
+يسمح لك Thonny بتغيير موضوع وخط البرنامج. This feature means that you can increase the font size and change the background and text colours to suit your needs.
 
 To change the theme and font:
 
@@ -8,7 +8,7 @@ To change the theme and font:
 
 ![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
 
-+ Press OK when you are finished.
++ اضغط على "OK" عند الانتهاء.
 
 **Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
 
