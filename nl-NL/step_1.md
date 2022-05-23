@@ -2,11 +2,11 @@ Met Thonny kun je het thema en lettertype van de software wijzigen. Deze functie
 
 Het thema en lettertype wijzigen:
 
-+ Klik op Tools -> Options.
-+ Klik op het tabblad 'Theme & Font'.
++ Klik op Hulpmiddelen -> Opties.
++ Klik op het tabblad 'Thema & Lettertype'.
 + Klik op de vervolgkeuzelijsten voor elke optie totdat je de instellingen vindt die het beste bij je wensen passen.
 
-![Een schermafdruk van de Thonny programmeeromgeving. De afbeelding toont het tabblad 'Theme & Font' in het venster Options.](images/theme-tab.PNG)
+![Een schermafdruk van de Thonny programmeeromgeving. De afbeelding toont het tabblad 'Theme & Lettertype' in het venster Options.](images/theme-tab.PNG)
 
 + Druk op OK als je klaar bent.
 
