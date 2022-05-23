@@ -1,15 +1,15 @@
-Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs.
+Met Thonny kun je het thema en lettertype van de software wijzigen. Deze functie betekent dat je de lettergrootte kunt vergroten en de achtergrond- en tekstkleuren kunt aanpassen aan je behoeften.
 
-To change the theme and font:
+Het thema en lettertype wijzigen:
 
-+ Click on Tools -> Options.
-+ Click on the 'Theme & Font' tab.
-+ Click on the drop down boxes for each option until you find the settings that best suit your needs.
++ Klik op Tools -> Options.
++ Klik op het tabblad 'Theme & Font'.
++ Klik op de vervolgkeuzelijsten voor elke optie totdat je de instellingen vindt die het beste bij je wensen passen.
 
-![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
+![Een schermafdruk van de Thonny programmeeromgeving. De afbeelding toont het tabblad 'Theme & Font' in het venster Options.](images/theme-tab.PNG)
 
-+ Press OK when you are finished.
++ Druk op OK als je klaar bent.
 
-**Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
+**Waarschuwing**: Houd eenvoudige, zuivere lettertypen aan. Als je een handschrift stijl gebruikt, kan het moeilijk zijn om te lezen en fouten op te sporen.
 
 
