@@ -1,22 +1,22 @@
-## Step title
+## Staptitel
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Voeg een inleidende zin toe. Wat zullen leerlingen bereiken aan het einde van deze stap?
 
 --- task ---
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
+Als je **online** werkt, open dan het [startproject](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Als je **offline** werkt, open je het [startbestand](http://rpf.io/p/en/projectName-get){:target="_blank"} voor het project in de Scratch offline editor. Als je Scratch wilt downloaden en installeren, kun je het [hier](https://scratch.mit.edu/download){:target="_blank"} vinden.
 
-You should see...
+Je zou moeten zien...
 
-![starter project](images/starter_project.png)
+![startproject](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Step content...
+Stapinhoud ...
 
 --- /task ---
 
