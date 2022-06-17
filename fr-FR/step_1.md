@@ -1,15 +1,15 @@
-Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs.
+Thonny te permet de changer le thème et la police du logiciel. Cette fonctionnalité signifie que tu peux augmenter la taille de la police et modifier les couleurs d'arrière-plan et de texte en fonction de tes besoins.
 
-To change the theme and font:
+Pour changer le thème et la police :
 
-+ Click on Tools -> Options.
-+ Click on the 'Theme & Font' tab.
-+ Click on the drop down boxes for each option until you find the settings that best suit your needs.
++ Clique sur Outils -> Options.
++ Clique sur l'onglet "Thème & Police".
++ Clique sur les listes déroulantes pour chaque option jusqu'à ce que tu trouves les paramètres qui répondent le mieux à tes besoins.
 
-![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
+![Une capture d'écran de l'environnement de programmation Thonny. L'image montre l'onglet "Thème & Police" dans la fenêtre Options.](images/theme-tab.PNG)
 
-+ Press OK when you are finished.
++ Appuie sur OK lorsque tu as terminé.
 
-**Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
+**Avertissement** : Tiens-t'en à des polices simples et propres. Si tu utilises une police de style manuscrite, cela peut rendre la lecture et le débogage difficiles.
 
 
