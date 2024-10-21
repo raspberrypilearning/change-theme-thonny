@@ -1,15 +1,15 @@
-Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs.
+Το Thonny σου επιτρέπει να αλλάξεις το θέμα και τη γραμματοσειρά του λογισμικού. Αυτή η δυνατότητα σημαίνει ότι μπορείς να αυξήσεις το μέγεθος της γραμματοσειράς και να αλλάξεις το φόντο και τα χρώματα του κειμένου για να ταιριάζουν στις ανάγκες σου.
 
-To change the theme and font:
+Για να αλλάξεις το θέμα και τη γραμματοσειρά:
 
-+ Click on Tools -> Options.
-+ Click on the 'Theme & Font' tab.
-+ Click on the drop down boxes for each option until you find the settings that best suit your needs.
++ Κάνε κλικ στα Εργαλεία -> Επιλογές.
++ Κάνε κλικ στην καρτέλα «Θέμα & Γραμματοσειρά».
++ Κάνε κλικ στα αναπτυσσόμενα πλαίσια για κάθε επιλογή μέχρι να βρεις τις ρυθμίσεις που ταιριάζουν καλύτερα στις ανάγκες σου.
 
-![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
+![Στιγμιότυπο του περιβάλλοντος προγραμματισμού Thonny. Η εικόνα δείχνει την καρτέλα "Θέμα & Γραμματοσειρά" στο παράθυρο Επιλογές.](images/theme-tab.PNG)
 
-+ Press OK when you are finished.
++ Πάτησε OK όταν τελειώσεις.
 
-**Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
+**Προειδοποίηση**: Χρησιμοποίησε απλές, καθαρές γραμματοσειρές. Εάν χρησιμοποιείς γραμματοσειρά σε στυλ χειρογράφου, τότε μπορεί να δυσκολευτεί η ανάγνωση και ο εντοπισμός σφαλμάτων.
 
 
