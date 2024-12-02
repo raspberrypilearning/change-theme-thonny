@@ -1,4 +1,4 @@
-## Step title
+## Título del paso
 
 Add an introductory sentence. What will learners achieve by the end of this step?
 
@@ -10,13 +10,13 @@ If working **offline**, open the project [starter file](http://rpf.io/p/en/proje
 
 You should see...
 
-![starter project](images/starter_project.png)
+![proyecto inicial](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Step content...
+Paso contenido...
 
 --- /task ---
 
