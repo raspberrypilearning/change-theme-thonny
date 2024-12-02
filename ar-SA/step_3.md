@@ -1,7 +1,7 @@
-## What next?
+## ماذا بعد؟
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+إذا كنت تتبع مسار [مقدمة الى Python](https://projects.raspberrypi.org/en/raspberrypi/pathway-name)، يمكنك الانتقال إلى مشروع [التدريب على الهدف](https://projects.raspberrypi.org/en/projects/project-name). في هذا المشروع ، ستقوم بعمل (أضف الوصف هنا)..
 
-![ProjectName project](images/projectname-project.png)
+![مشروع اسمك ](images/projectname-project.png)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+إذا كنت ترغب في الحصول على مزيد من المتعة في استكشاف مفتاح، فيمكنك تجربة أي من [هذه المشاريع](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
