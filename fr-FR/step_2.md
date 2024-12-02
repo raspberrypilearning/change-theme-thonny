@@ -1,22 +1,22 @@
-## Step title
+## Titre de l'étape
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+Ajouter une phrase d'introduction. Qu'est-ce que les apprenants obtiendront à la fin de cette étape ?
 
 --- task ---
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
+Si vous travaillez **en ligne**, ouvrez le [projet de démarrage](http://rpf.io/p/en/projectName-on){:target="_blank"} dans Scratch.
 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Si vous travaillez **hors ligne**, ouvrez le projet [fichier de démarrage](http://rpf.io/p/en/projectName-get){:target="_blank"} dans l'éditeur Scratch hors ligne. Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver [ici](https://scratch.mit.edu/download){:target="_blank"}.
 
-You should see...
+Tu devrais voir...
 
-![starter project](images/starter_project.png)
+![projet de démarrage](images/starter_project.png)
 
 --- /task ---
 
 --- task ---
 
-Step content...
+Contenu de l'étape...
 
 --- /task ---
 
