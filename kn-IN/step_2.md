@@ -10,7 +10,7 @@ If working **offline**, open the project [starter file](http://rpf.io/p/en/proje
 
 You should see...
 
-![starter project](images/starter_project.png)
+![ಪ್ರಾರಂಭಿಕ ಪ್ರಾಜೆಕ್ಟ್](images/starter_project.png)
 
 --- /task ---
 
