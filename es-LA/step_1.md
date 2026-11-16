@@ -1,15 +1,15 @@
-Thonny allows you to change the theme and font of the software. This feature means that you can increase the font size and change the background and text colours to suit your needs.
+Thonny te permite cambiar el tema y la fuente del programa. Con esta función puedes aumentar el tamaño de la fuente y cambiar los colores del fondo y del texto según tus necesidades.
 
-To change the theme and font:
+Para cambiar el tema y la fuente:
 
-+ Click on Tools -> Options.
-+ Click on the 'Theme & Font' tab.
-+ Click on the drop down boxes for each option until you find the settings that best suit your needs.
++ Haz clic en Herramientas -> Opciones.
++ Haz clic en la pestaña 'Tema & Fuente'.
++ Haz clic en los menús desplegables de cada opción hasta encontrar la configuración que mejor se adapte a tus necesidades.
 
-![A screenshot of the Thonny programming environment. The image shows the 'Theme & Font' tab in the Options window.](images/theme-tab.PNG)
+![Una captura de pantalla del entorno de programación Thonny. La imagen muestra la pestaña 'Tema & Fuente' en la ventana de Opciones.](images/theme-tab.PNG)
 
-+ Press OK when you are finished.
++ Presiona Aceptar cuando termines.
 
-**Warning**: Stick to simple, clean fonts. If you use a handwriting style font then it can make it difficult to read and debug.
+**Advertencia**: Usa fuentes sencillas y claras. Si usas una fuente que imita la escritura a mano, puede ser más difícil leer el código y corregir errores.
 
 
