@@ -6,7 +6,7 @@ Změna motivu a písma:
 + Klikněte na záložku „Motiv a písmo“.
 + Klikni na rozbalovací nabídky pro každou možnost, dokud nenajdeš nastavení, které nejlépe vyhovuje tvým potřebám.
 
-![Snímek obrazovky programovacího prostředí Thonny. Obrázek ukazuje kartu Motiv a písmo “ v okně Možnosti.](images/theme-tab.PNG)
+![Snímek obrazovky programovacího prostředí Thonny. Obrázek ukazuje kartu „Písmo motivu & “ v okně Možnosti.](images/theme-tab.PNG)
 
 + Po dokončení stiskni OK.
 
